@@ -1189,7 +1189,7 @@ repeat task.wait() until game.Players.LocalPlayer
 			["JumpPower"] = 40,
 			["SelectedStands"] = {},
 			["Sell"] = {},
-			["AllItems"] = {"Mysterious Arrow", "Pure Rokakaka", "Rokakaka", "Diamond", "Lucky Arrow", "Dio's Diary", "Steel Ball", "Rib Cage of The Saint's Corpse", "Stone Mask", "Gold Coin", "Quinton's Glove", "Ancient Scroll", "Zeppeli's Hat", "Lucky Stone Mask", "Clackers", "Caeser's Headband", "Red Candy", "Blue Candy", "Green Candy", "Yellow Candy", },
+			["AllItems"] = {"Mysterious Arrow", "Pure Rokakaka", "Rokakaka", "Diamond", "Lucky Arrow", "Dio's Diary", "Steel Ball", "Rib Cage of The Saint's Corpse", "Stone Mask", "Gold Coin", "Quinton's Glove", "Ancient Scroll", "Zeppeli's Hat", "Lucky Stone Mask", "Clackers", "Caesar's Headband", "Red Candy", "Blue Candy", "Green Candy", "Yellow Candy", },
 			["AllStands"] = {"Whitesnake", "Stone Free", "Star Platinum", "The World", "Crazy Diamond", "Killer Queen", "Gold Experience", "King Crimson", "Silver Chariot", "Hermit Purple", "The Hand", "Purple Haze", "Cream", "Hierophant Green", "Magician's Red", "White Album", "Aerosmith", "Six Pistols", "Beach Boy", "Mr. President", "Sticky Fingers", "Anubis", "Red Hot Chili Pepper", "Scary Monsters", "The World Alternate Universe", "D4C", "Tusk ACT 1", "Soft & Wet"}
 		}
 		
