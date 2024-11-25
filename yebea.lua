@@ -3446,7 +3446,7 @@ repeat task.wait() until game.Players.LocalPlayer
 		} --// this is needed for autofarm srry its messy
 
 		TempData.AutofarmSettings = {
-			["Distance"] = 2.35,
+			["Distance"] = 10,
 			["Height"] = 10,
 			["FarmMethod"] = "Above",
 			["Auto Spawn Stand"] = true,
